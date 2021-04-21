@@ -26,21 +26,24 @@ Strong attention to detail demonstrated by ability to follow and develop specifi
 
 ### Experience
 *07.2019-present*       **QA Engineer, CFT,** SPB
-                    * Mobile platform testing
-                    * Test case generation and management
-                    * UI-test automation development
-                    * Perform business and system analysis
-                    * Raise and manage any defects identified throughout the software development life cycle
-                    * Manage all communications related to QA Status on a daily basis during execution. Reporting potential risks during all any stages of development lifecycle
-                    * Work closely with the development team to test systems for defects using Scrum, Kanban and other Agile/Lean methodologies
-                    * Using existing tools and techniques to execute test cases and build/script new tools for performing testing/validation function
-                    * Provide daily/weekly reports to managers and team members
+                    *Mobile platform testing
+                    *Test case generation and management
+                    *UI-test automation development
+                    *Perform business and system analysis
+                    *Raise and manage any defects identified throughout the software development life cycle
+                    *Manage all communications related to QA Status on a daily basis during execution. Reporting potential risks during all any stages of development lifecycle
+                    *Work closely with the development team to test systems for defects using Scrum, Kanban and other Agile/Lean methodologies
+                    *Using existing tools and techniques to execute test cases and build/script new tools for performing testing/validation function
+                    *Provide daily/weekly reports to managers and team members
 
 ### Education
 
 *Technologist of production and processing of agricultural products*, Chuvash state agricultural academy”, Cheboksary, Chuvash Republic, 2013
+
 *Test-Analytics School*, [Software-Testing](https://software-testing.ru), 2020
+
 *Security testing*, [Software-Testing](https://software-testing.ru), 2020
+
 
 ### Soft-Skills
 
